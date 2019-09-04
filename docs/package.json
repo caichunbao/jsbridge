@@ -8,7 +8,7 @@
   },
   "scripts": {
     "init": "gitbook init",
-    "build": "gitbook serve ./ ./docs"
+    "build": "rm -rf ./docs && gitbook serve ./ ./docs"
   },
   "repository": {
     "type": "git",
