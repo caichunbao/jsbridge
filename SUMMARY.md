@@ -1,7 +1,5 @@
 # Summary
 
-* [getInitParams](part1/README.md)
-    * [getInitParams](part1/getInitParams.md)
-    
----
+* [介绍](./README.md)
+* [getInitParams](./jsbridge/getInitParams.md)
 
