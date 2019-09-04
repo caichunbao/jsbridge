@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "init": "gitbook init && rm -rf ./docs",
+    "init": "gitbook init ./content && rm -rf ./docs",
     "build": "gitbook serve ./content ./docs"
   },
   "repository": {
